@@ -6,7 +6,7 @@ int main() {
     int len=0;
     printf("Enter :");
     scanf("%s",&str);
-    for(int i=0;Str[i]!='\0';i++){
+    for(int i=0;str[i]!='\0';i++){
         len++;
     }
     printf("%d",len);
