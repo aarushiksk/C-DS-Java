@@ -4,3 +4,9 @@
 
 #### S.O.L.I.D
 -S: Single task is performed by the class
+
+#### Encapsulation: 
+-Data binding
+
+#### Inheritance
+-Using the proerpties of others
